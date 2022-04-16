@@ -1,8 +1,7 @@
 # My 100 Days of Code Logs
 
-I started on 16/04/2022
+I started on 18/04/2022
 
 ## Day 0 - Peparing project
 
-<hr>
-[google.com]
+## Day 1 - Planning
